@@ -1,6 +1,6 @@
 #Recommender system RPI 
 
-My favourite movie is THE-WOLF-OF-WALL-STREET
+My favourite movie is the-wolf-off-wall-street
 
 The following files contain the SQL:
 
