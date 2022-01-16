@@ -13,5 +13,7 @@ The following files contain the SQL:
 My movie is ranked in these files.
 
 PythonCodeRPI.py is the python file.
+
 I wrote comments in the file itself and whem I run it I can type my favorite movie name and it gives the average score.
+
 After that it will make a csv called recommendations.csv 
